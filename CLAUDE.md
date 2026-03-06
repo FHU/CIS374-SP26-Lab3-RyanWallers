@@ -29,7 +29,7 @@ dotnet test UnitTests/UnitTests.csproj --filter "TestName"
 This is a C# solution (`Lab3.sln`) with two projects:
 
 - **[Lab3/](Lab3/)** — Main library (net10.0) containing data structure implementations in the `Lab3` namespace
-- **[UnitTests/](UnitTests/)** — MSTest test project (net8.0) referencing the main library
+- **[UnitTests/](UnitTests/)** — MSTest test project (net10.0) referencing the main library
 
 ## Data Structures
 

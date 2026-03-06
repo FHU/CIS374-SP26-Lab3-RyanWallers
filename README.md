@@ -1,11 +1,11 @@
-# Lab 3 — Heaps and Union-Find
+# Lab 3 — Heaps (and Union-Find)
 
 Implementation of three data structures in C#: MinHeap, MaxHeap, and UnionFind.
 
 ## Project Structure
 
 - `Lab3/` — Data structure implementations (`Lab3` namespace, net10.0)
-- `UnitTests/` — MSTest unit tests (net8.0)
+- `UnitTests/` — MSTest unit tests (net10.0)
 
 ## Data Structures
 
